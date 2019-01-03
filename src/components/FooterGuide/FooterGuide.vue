@@ -49,6 +49,7 @@
 <style lang="stylus" rel="stylesheet/stylus" scoped>
   @import "../../commons/stylus/mixins.styl"
   .footer_guide {
+    z-index 100
     top-border-1px(#e4e4e4);
     position fixed;
     left 0;
